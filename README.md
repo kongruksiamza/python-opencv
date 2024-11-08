@@ -1,3 +1,6 @@
+## 📖 เอกสารประกอบการสอน (.pdf)
+- [Python & OpenCV เบื้องต้น](https://github.com/kongruksiamza/ebook-for-education)
+
 ## 🎓 คอร์สเรียนที่น่าสนใจ
 - [สร้างแอพพลิเคชั่นด้วยภาษา Python (Real-World Projects)](https://www.udemy.com/course/python-real-world-projects/?referralCode=4D6784B6C4CF2CBB1892)
 - [สร้าง GUI Application ด้วย Python](https://www.udemy.com/course/python-gui-projects/?referralCode=CFE6A91D21C759EF13E1)
