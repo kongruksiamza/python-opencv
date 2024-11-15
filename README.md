@@ -1,6 +1,3 @@
-## 📖 เอกสารประกอบการสอน (.pdf)
-- [Python & OpenCV เบื้องต้น](https://github.com/kongruksiamza/ebook-for-education)
-
 ## 🚀 Guideline & Documents
 - แนวทางการเรียนรู้การเขียนโปรแกรมภาษา Python (Python Guideline) [อ่านบทความ](https://github.com/kongruksiamza/python-guideline)
 - เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
